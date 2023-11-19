@@ -1,9 +1,29 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
+<h1 align="center">Hi 👋, I'm Tom</h1>
+<h3 align="center">A passionate Flutter developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ztomz&label=Profile%20views&color=0e75b6&style=flat" alt="ztomz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ztomz" alt="ztomz" /></a> </p>
+
+- 🔭 I’m currently working on **a Flutter Uno game.**
+
+- 🌱 I’m currently learning **Rust**
+
+- 🤝 I’m looking for help with [OpenScribe](https://github.com/zTomz/OpenScribe)
+
+- 📝 I regularly write articles on [https://medium.com/@tommyyy](https://medium.com/@tommyyy)
+
+- 💬 Ask me about **Flutter, Dart and Python**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-    I'm Tom, a Flutter developer and my hobbies are handball, athletic and weight training. I love to learn new languages and tools.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zTomz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/zTomz/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zTomz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zTomz/github-readme-stats#gh-light-mode-only)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztomz&show_icons=true&locale=en&layout=compact" alt="ztomz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ztomz&show_icons=true&locale=en" alt="ztomz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ztomz&" alt="ztomz" /></p>
