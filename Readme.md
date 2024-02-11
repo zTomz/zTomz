@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztomz&label=Profile%20views&color=0e75b6&style=flat" alt="ztomz" /> </p>
 
-- 🔭 I’m currently working on **a Flutter Uno game.**
+- 🔭 I’m currently working on **my programming language [Rudi](https://github.com/zTomz/Rudi)**.
 
 - 🌱 I’m currently learning **Rust**
 
-- 🤝 I’m looking for help with [OpenScribe](https://github.com/zTomz/OpenScribe)
-
-- 📝 I regularly write articles on [https://medium.com/@tommyyy](https://medium.com/@tommyyy)
+- 📝 Sometimes I write articles on [Medium](https://medium.com/@tommyyy)
 
 - 💬 Ask me about **Flutter, Dart and Python**
 
